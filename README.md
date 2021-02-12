@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niranjan Nair</h1>
-<h3 align="center">A curious developer from India</h3>
+![Metrics](https://metrics.lecoq.io/Niranjan-Nair?template=classic&activity=1&languages=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta&config.animated=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iranjan-nair&label=Profile%20views&color=0e75b6&style=flat" alt="iranjan-nair" /> </p>
 
