@@ -1,7 +1,7 @@
 ![Metrics](https://metrics.lecoq.io/Niranjan-Nair?template=classic&activity=1&languages=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta&config.animated=true)
 <br>
 <br>
-<h2>Hello, world! 🌎</h2>
+<h2>Hello World! 🌎</h2>
 <hr>
 I am Niranjan Nair , a web developer who loves playing with stuff. 
 Astronomy is my favourite subject as I love star gazing a lot! 
